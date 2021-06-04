@@ -1,7 +1,7 @@
 {
 	"version_code":50,
 	"version_name": "Search 'pub:Monica Inc' on Google Play Store",
-	"require_update": false, 
+	"require_update": true, 
 	"disable_online": false,
 	"isOffAdmob": false,
 	"isOffFan":true,
